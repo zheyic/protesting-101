@@ -10164,5 +10164,19 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+.image-size {
+  width: 7.5vw;
+  height: 7.5vw;
+}
 
-#class="col-lg-4 mr-auto text-center
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -50px;
+}
+
+.short-text {
+  margin-top: 10px;
+  text-align: center;
+}
+
